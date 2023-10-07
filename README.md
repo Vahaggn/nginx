@@ -2,10 +2,9 @@
 
 This README provides an overview of module support in different versions of Nginx.
 
-## Core Modules
-
 | Module               | nginx-core | nginx-full | nginx-light | nginx-extras |
 |----------------------|------------|------------|-------------|-------------|
+| **Core Modules**     |            |            |             |             |
 | Core                 | ✔️         | ✔️         | ✔️          | ✔️          |
 | Access               | ✔️         | ✔️         | ✔️          | ✔️          |
 | Auth Basic           | ✔️         | ✔️         | ✔️          | ✔️          |
@@ -24,11 +23,7 @@ This README provides an overview of module support in different versions of Ngin
 | SCGI                 | ✔️         | ✔️         | ✔️          | ✔️          |
 | Split Clients        | ✔️         | ✔️         |             | ✔️          |
 | UWSGI                | ✔️         | ✔️         | ✔️          | ✔️          |
-
-## Optional Modules
-
-| Module               | nginx-core | nginx-full | nginx-light | nginx-extras |
-|----------------------|------------|------------|-------------|-------------|
+| **Optional Modules** |            |            |             |             |
 | Addition             | ✔️         | ✔️         |             | ✔️          |
 | Auth Request         | ✔️         | ✔️         | ✔️          | ✔️          |
 | Charset              | ✔️         | ✔️         | ✔️          | ✔️          |
@@ -58,11 +53,7 @@ This README provides an overview of module support in different versions of Ngin
 | Upstream             | ✔️         | ✔️         | ✔️          | ✔️          |
 | User ID              | ✔️         | ✔️         |             | ✔️          |
 | XSLT                 | ✔️         | ✔️         |             | ✔️          |
-
-## Mail Modules
-
-| Module               | nginx-core | nginx-full | nginx-light | nginx-extras |
-|----------------------|------------|------------|-------------|-------------|
+| **Mail Modules**     |            |            |             |             |
 | Mail Core            | ✔️         | ✔️         |             | ✔️          |
 | Auth HTTP            | ✔️         | ✔️         |             | ✔️          |
 | Proxy                | ✔️         | ✔️         |             | ✔️          |
@@ -70,19 +61,11 @@ This README provides an overview of module support in different versions of Ngin
 | IMAP                 | ✔️         | ✔️         |             | ✔️          |
 | POP3                 | ✔️         | ✔️         |             | ✔️          |
 | SMTP                 | ✔️         | ✔️         |             | ✔️          |
-
-## Stream Modules
-
-| Module               | nginx-core | nginx-full | nginx-light | nginx-extras |
-|----------------------|------------|------------|-------------|-------------|
+| **Stream Modules**   |            |            |             |             |
 | Stream Core          | ✔️         | ✔️         |             | ✔️          |
 | GeoIP                | ✔️         | ✔️         |             | ✔️          |
 | GeoIP2               |            | ✔️         |             | ✔️          |
-
-## Third-party Modules
-
-| Module               | nginx-core | nginx-full | nginx-light | nginx-extras |
-|----------------------|------------|------------|-------------|-------------|
+| **Third-party Modules** |         |            |             |             |
 | Auth PAM             |            | ✔️         |             | ✔️          |
 | Cache Purge          |            |            |             | ✔️          |
 | DAV Ext              |            | ✔️         |             | ✔️          |
