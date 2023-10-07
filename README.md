@@ -1,7 +1,7 @@
-# Nginx Module Support Matrix
+# Nginx 
+In this repo try add everything about nginx
 
-This README provides an overview of module support in different versions of Nginx.
-
+# Nginx different versions 
 | Module               | nginx-core | nginx-full | nginx-light | nginx-extras |
 |----------------------|------------|------------|-------------|-------------|
 | **Core Modules**     |            |            |             |             |
