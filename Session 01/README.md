@@ -1,8 +1,13 @@
 # Nginx Tutorial - Session 01: What is Nginx?
+- Video of this Session: [Link](https://www.youtube.com/watch?v=KLYn7zj3cKo&list=PL63NzugBawGe1nUhAveIBfYHtbiXvKKEb&index=1) 
 
 Welcome to Session 01 of the Nginx Persian Tutorial, where we'll explore the fundamentals of Nginx.
 
-در این جلسه ما به بررسی مقدمات میپردازیم
+- **Vahag Gragoosian**
+  - DevOps Enthusiast
+  - GitHub: [Vahag's GitHub](https://github.com/Vahaggn)
+  - LinkedIn: [Vahag's LinkedIn](https://www.linkedin.com/in/vahag-gragosian/)
+  - Youtube Channel: [Vahag's Youtube](https://www.youtube.com/@vahaggn) 
 
 ## Table of Contents
 
