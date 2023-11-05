@@ -1,7 +1,7 @@
 # Nginx Tutorial - Session 02: Basics of Installing Nginx
 - Video of this Session: [Link](https://www.youtube.com/watch?v=I_Qul4thJMU&list=PL63NzugBawGe1nUhAveIBfYHtbiXvKKEb&index=2) 
 
-Welcome to Session 02 of the Nginx Persian Tutorial, where we'll explore the basic architecture of Nginx and learn how to install it on Ubuntu and CentOS.
+Welcome to Session 02 of the Nginx Persian Tutorial, where we'll explore the basic installing of Nginx and learn how to install it on Ubuntu and CentOS.
 
 - **Vahag Gragoosian**
   - DevOps Enthusiast

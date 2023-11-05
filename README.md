@@ -21,3 +21,11 @@ for each session we will create a new branch and later we will merge all this br
 
 - Session 01 - What is Nginx? [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2001)
 - Session 02 - Basics of Installing Nginx [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2002)
+- Session 03 - Basic Architecture of Nginx [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2003)
+- Session 04 - Serving Static Content [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2004)
+- Session 05 - Load Balancer [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2005)
+- Session 06 -  [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2006)
+- Session 07 -  [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2007)
+- Session 08 -  [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2008)
+- Session 09 -  [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2009)
+- Session 10 -  [Link](https://github.com/Vahaggn/nginx/tree/main/Session%2010)
