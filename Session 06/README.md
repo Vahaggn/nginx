@@ -1,7 +1,7 @@
 # Nginx Tutorial - Session 06: LB HTTP 01
 - Video of this Session: [Link](https://www.youtube.com/watch?v=p_Nx-3djruM&list=PL63NzugBawGe1nUhAveIBfYHtbiXvKKEb&index=6) 
 
-Welcome to Session 06 of the Nginx Tutorial, where we'll delve into the basics of the HTTP protocol. We'll cover various aspects, including HTTP versions, methods, schemas, status codes, URIs, HTTP headers, and the HTTP body.
+Welcome to Session 06 of the Nginx Persian Tutorial, where we'll delve into the basics of the HTTP protocol. We'll cover various aspects, including HTTP versions, methods, schemas, status codes, URIs, HTTP headers, and the HTTP body.
 
 - **Vahag Gragoosian**
   - DevOps Enthusiast
