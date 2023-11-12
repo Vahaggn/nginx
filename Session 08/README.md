@@ -1,7 +1,7 @@
 # Nginx Tutorial - Session 08: Health Check
 - Video of this Session: [Link](https://www.youtube.com/watch?v=p_Nx-3djruM&list=PL63NzugBawGe1nUhAveIBfYHtbiXvKKEb&index=8) 
 
-Welcome to Session 10 of the Nginx Tutorial, where we'll focus on understanding health checks, their significance, and the different types used in web server management.
+Welcome to Session 08 of the Nginx Persian Tutorial, where we'll focus on understanding health checks, their significance, and the different types used in web server management.
 
 - **Vahag Gragoosian**
   - DevOps Enthusiast

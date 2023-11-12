@@ -1,7 +1,7 @@
-# Nginx Tutorial - Session 09: Logging
+# Nginx Tutorial - Session 09: Logging - 01
 - Video of this Session: [Link](https://www.youtube.com/watch?v=p_Nx-3djruM&list=PL63NzugBawGe1nUhAveIBfYHtbiXvKKEb&index=9) 
 
-
+Welcome to Session 09 of the Nginx Tutorial, where we'll dive into the world of logging in Nginx. We'll explore different kinds of logging, including access logs and error logs, and we'll provide a practical demonstration of working with error logs.
 
 - **Vahag Gragoosian**
   - DevOps Enthusiast
@@ -11,39 +11,42 @@
 
 ## Table of Contents
 
-1. [What is Health Check](#what-is-health-check)
-2. [Different Kinds of Health Check](#different-kinds-of-health-check)
-3. [Passive Health Check](#passive-health-check)
-4. [Active Health Check](#active-health-check)
+1. [Different Kinds of Logging](#different-kinds-of-logging)
+2. [Access Log](#access-log)
+3. [Error Log](#error-log)
+4. [Demo Error Log](#demo-error-log)
 
-## What is Health Check
+## Different Kinds of Logging
 
-Health checks are a vital part of monitoring the status and performance of web servers and the services they host. They're designed to verify that the server or service is operating correctly and handling requests appropriately.
+Logging is essential for monitoring, debugging, and analyzing web server activities. Nginx offers various types of logs that capture different aspects of its operation.
 
-## Different Kinds of Health Check
+## Access Log
 
-There are various methods and types of health checks used to ensure the health and proper functioning of servers. These checks can be active or passive and are integral to maintaining system reliability.
+The access log records information about every HTTP request received by the Nginx server. It includes details such as the client's IP address, requested URL, response status, and more.
 
-## Passive Health Check
+## Error Log
 
-Passive health checks typically involve monitoring the server's responses and status without actively sending requests. They rely on observing the server's behavior to determine its health.
+The error log captures information about issues and errors that occur within the Nginx server. It's a valuable resource for diagnosing problems and troubleshooting.
 
-Nginx - Nginx+
-
-## Active Health Check
-
-Active health checks involve sending requests to the server to assess its status and responsiveness. These checks actively verify that the server is correctly handling requests.
-
-Nginx+
+| Log Level | Description                                   | Value in Nginx |
+|-----------|-----------------------------------------------|----------------|
+| Debug     | Debugging messages that are not useful most of the time.  | debug |
+| Info      | Informational messages that might be good to know.         | info |
+| Notice    | Something normal but significant happened and it should be noted. | notice |
+| Warn      | Something unexpected happened, however it’s not a cause for concern. | warn |
+| Error     | Something failed.                            | error |
+| Crit      | A critical condition occurred.               | crit |
+| Alert     | Immediate action is required.               | alert |
+| Emerg     | The system is unusable.                      | emerg |
 
 ## Conclusion
 
-Understanding health checks and their different types is crucial for ensuring the reliability and stability of web servers. Implementing an effective health check strategy can prevent and address potential issues, maintaining a healthy server infrastructure.
+Logging is a crucial part of web server administration, and understanding how to utilize and analyze logs is essential for maintaining a healthy and reliable web infrastructure. In the subsequent sessions of this tutorial, we'll continue exploring various aspects of Nginx and web server management.
 
-We hope you find this session informative and valuable. Stay tuned for more sessions in this Nginx tutorial series.
+We hope you find this session informative and practical. Stay tuned for more sessions in this Nginx tutorial series.
 
 ## Useful Links
 
 Here are some useful links for further reading and reference:
 
-- [Nginx Health Checks](https://docs.nginx.cm/nginx/admin-guide/load-balancer/http-health-check/): Official documentation on configuring health checks in Nginx.
+- [Nginx Logging and Log Rotation](https://docs.nginx.com/nginx/admin-guide/monitoring/logging/): Official documentation on Nginx logging and log rotation.

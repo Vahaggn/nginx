@@ -1,7 +1,7 @@
 # Nginx Tutorial - Session 07: LB HTTP 02
 - Video of this Session: [Link](https://www.youtube.com/watch?v=p_Nx-3djruM&list=PL63NzugBawGe1nUhAveIBfYHtbiXvKKEb&index=7) 
 
-Welcome to Session 07 of the Nginx Tutorial, where we'll continue our exploration of HTTP load balancing. In this session, we'll dive into reverse proxy basics, demonstrate a reverse proxy setup, discuss the use of backup servers, handling down servers, and demonstrate various load balancing algorithms.
+Welcome to Session 07 of the Nginx Persian Tutorial, where we'll continue our exploration of HTTP load balancing. In this session, we'll dive into reverse proxy basics, demonstrate a reverse proxy setup, discuss the use of backup servers, handling down servers, and demonstrate various load balancing algorithms.
 
 - **Vahag Gragoosian**
   - DevOps Enthusiast
