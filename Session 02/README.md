@@ -72,3 +72,23 @@ Update and Install Nginx
 sudo yum update
 sudo yum install nginx
 ```
+
+### On Docker
+open `docker-compose.yml`
+```
+services:
+  nginx:
+    image: nginx:latest
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - "127.0.0.1:8080:80"
+```
+
+Be sure to have `nginx.conf` file on same directory
+
+commands:
+```
+docker compose up -d --force-recreate
+docker compose down
+```
